@@ -1,4 +1,9 @@
-Scuffed-GTNH-Dark by Flanisch, also known as Albi, is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Scuffed-GTNH-Dark (Continued) by Marneyy_ is a derivative of "Scuffed-GTNH-Dark" by Flanisch (a.k.a. Albi), used under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This project and all modifications made by Marneyy_ are also licensed under the same license:  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+See below for the full license text.
 
 # Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
