@@ -1,5 +1,5 @@
 # Scuffed-GTNH-Dark
-GT New Horizons: Dark theme for 2.5.1
+GT New Horizons: Dark theme for 2.7.4
 
 Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential ones. 
 
