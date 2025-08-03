@@ -1,14 +1,14 @@
 # Scuffed-GTNH-Dark (Continued)
 **GT New Horizons: Dark theme for 2.7.4**
 
-> 🎨 This is a **fork** of the original [Scuffed-GTNH-Dark by Flanisch](https://github.com/Flanisch/Scuffed-GTNH-Dark), continued in the spirit of the original.  
-> 💬 For feedback or texture requests, feel free to contact me on Discord: **@marneyy_**
-
----
-
 ## GregTech: New Horizons is 100%* Supported
 
 *If you find any issues, contact me!
+
+---
+
+> 🎨 This is a **fork** of the original [Scuffed-GTNH-Dark by Flanisch](https://github.com/Flanisch/Scuffed-GTNH-Dark), continued in the spirit of the original.  
+> 💬 For feedback or texture requests, feel free to contact me on Discord: **@marneyy_**
 
 ---
 
