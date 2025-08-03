@@ -6,12 +6,9 @@
 
 ---
 
-## Disclaimer
-The current state of this resource pack is in **Alpha** and doesn't cover all GUIs, but hopefully the most essential ones.
+## GregTech: New Horizons is 100%* Supported
 
-Feedback is very much encouraged, as well as texturing requests for the remaining mods.  
-Original creator of this pack: **Flanisch** (Discord: **@albient**)  
-Current maintainer: **@marneyy_**
+*If you find any issues, contact me!
 
 ---
 
