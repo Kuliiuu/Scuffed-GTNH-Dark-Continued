@@ -1,0 +1,963 @@
+# NEI INTEGRATION
+botania.nei.brewery=§fBotanical Brewery
+botania.nei.elvenTrade=§fElven Trade
+botania.nei.floatingFlowers=§fFloating Flowers
+botania.nei.manaPool=§fMana Infusion
+botania.nei.petalApothecary=§fPetal Apothecary
+botania.nei.runicAltar=§fRunic Altar
+botania.nei.pureDaisy=§fPure Daisy
+botania.nei.lexica=§fLexica Botania
+
+botania.nei.lexicaSeparator=§fExtra Info:
+botania.nei.lexicaNoInfo=§f(there's no Extra Info for this entry, sorry!)
+
+# NEI QUICK LOOKS
+botania.nei.quickInfo:tile.livingwood0~0=§fYou can create Livingwood by placing Wood next to a Pure Daisy
+botania.nei.quickInfo:tile.livingrock0~0=§fYou can create Livingrock by placing Stone next to a Pure Daisy
+
+botania.nei.quickInfo:flower.daybloom=§fIn this world, it's kill or be killed
+botania.nei.quickInfo:flower.daybloomPrimus=§fThis flower can not be harvested, but can be found rarely in the world
+botania.nei.quickInfo:flower.nightshadePrimus=§fThis flower can not be harvested, but can be found rarely in the world
+
+botania.nei.quickInfo:item.bone~0=§fYou're gonna have a bad time
+botania.nei.quickInfo:item.lexicon~0=§fWhat exactly did you expect?
+botania.nei.quickInfo:item.terrasteel~4=§fYou can get Terrasteel by tossing the right materials on a Terrestrial Agglomeration Plate
+botania.nei.quickInfo:item.enderAirBottle~15=§fYou can get this by right clicking with a Glass Bottle while in the End
+primus
+
+# KNOWLEDGE
+botania.knowledge.minecraft=§fMinecraftian Knowledge
+botania.knowledge.alfheim=&aElven&7 Knowledge
+botania.knowledge.relic=&5Relic&7 Knowledge
+
+# CHALLENGE LEVELS
+botania.challengelevel.lunatic=GREG
+
+# GUI TEXT
+botania.gui.lexicon.header=§fLexica Botania, %s Edition Table of Contents
+botania.gui.lexicon.wip=§f(This entry is a Work In Progress. It's not even its final form)
+
+# LEXICON ENTRIES
+# - BASIC
+# -- WELCOME TO BOTANIA
+botania.entry.welcome=§fWelcome To Botania
+botania.tagline.welcome=§fWelcome to the Hotel Botania
+
+# -- TUTORIAL OF THE BASICS
+botania.entry.tutorial=§fA Tutorial of the Basics
+botania.tagline.tutorial=§fGet set up quickly
+
+# -- GARDEN OF GLASS
+botania.entry.gardenOfGlass=§fGarden of Glass
+botania.tagline.gardenOfGlass=§fYour new challenge
+
+# -- LEXICA BOTANIA
+botania.entry.lexicon=§fLexica Botania
+botania.tagline.lexicon=§fWhat you're reading right now, dummy
+
+# -- MYSTICAL FLOWERS
+botania.entry.flowers=§fMystical Flowers
+botania.tagline.flowers=§fThe roots of your studies
+
+# -- PETAL APOTHECARY
+botania.entry.apothecary=§fPetal Apothecary
+botania.tagline.apothecary=§fWhat you use to make flowers
+
+# -- PURE DAISY
+botania.entry.pureDaisy=§fPure Daisy
+botania.tagline.pureDaisy=§fCreator of Livingwood and Livingrock, among others
+
+# -- WAND OF THE FOREST
+botania.entry.wand=§fWand of the Forest
+botania.tagline.wand=§fYour essential multitool
+
+# -- RUNIC ALTAR
+botania.entry.runeAltar=§fRunic Altar
+botania.tagline.runeAltar=§fCreate runes for stronger flowers and items
+
+# -- TERRASTEEL
+botania.entry.terrasteel=§fTerrasteel
+botania.tagline.terrasteel=§fPowerful metal derived from Mana and nature
+
+# -- BLACK LOTUS
+botania.entry.blackLotus=§fBlack Lotus
+botania.tagline.blackLotus=§fRare loot that can make mana
+
+# -- FLOWER POUCH
+botania.entry.flowerBag=§fFlower Pouch
+botania.tagline.flowerBag=§fA trusty pouch to hold your floral goodness
+
+# -- MUSHROOM POUCH
+botania.entry.shroomBag=§fMushroom Pouch
+botania.tagline.shroomBag=§fA trusty pouch to hold your mushroom goodness
+
+# -- WRAP
+botania.entry.wrap=§fWrap
+botania.tagline.wrap=§fIt's a wrap
+
+# - MANA
+# -- AN INTRODUCTION TO MANA
+botania.entry.mIntro=§fAn Introduction to Mana
+botania.tagline.mIntro=§fStart off with Mana
+
+# -- MANA SPREADER
+botania.entry.spreader=§fMana Spreader
+botania.tagline.spreader=§fYour essential Mana transporter
+
+# -- MANA POOL
+botania.entry.pool=§fMana Pool
+botania.tagline.pool=§fMana storage for the masses
+
+# -- SPARKS
+botania.entry.sparks=§fSparks
+botania.tagline.sparks=§fSimple and fast short-range Mana transporters
+
+# -- SPARK AUGMENTATION
+botania.entry.sparkUpgrades=§fSpark Augmentation
+botania.tagline.sparkUpgrades=§fUpgrade your Sparks to allow for better functionality
+
+# -- MANA DISTRIBUTOR
+botania.entry.distributor=§fMana Distributor
+botania.tagline.distributor=§fEquivalently distribute Mana between various pools
+
+# -- MANA VOID
+botania.entry.manaVoid=§fMana Void
+botania.tagline.manaVoid=§fDestroys all mana that comes into it
+
+# -- MANA FLUXFIELD
+botania.entry.rfGenerator=§fMana Fluxfield
+botania.tagline.rfGenerator=§fConverts Mana into Redstone Flux
+
+# -- MANA LENSES
+botania.entry.lens=§fMana Lenses
+botania.tagline.lens=§fVaried augmentations for your spreaders
+
+# -- MANA TABLET
+botania.entry.manaTablet=§fMana Tablet
+botania.tagline.manaTablet=§fPortable Mana Storage 
+
+# -- MANA MIRROR
+botania.entry.manaMirror=§fMana Mirror
+botania.tagline.manaMirror=§fRemote Portable Mana Access
+
+# -- MANA DETECTOR
+botania.entry.manaDetector=§fMana Detector
+botania.tagline.manaDetector=§fDetects Mana Bursts and emits Redstone signals
+
+# -- PULSE MANA SPREADER
+botania.entry.redstoneSpreader=§fPulse Mana Spreader
+botania.tagline.redstoneSpreader=§fA spreader that fires on a Redstone pulse
+
+# -- MANASTAR
+botania.entry.manastar=§fManastar
+botania.tagline.manastar=§fA flower for classifying mana loss or income
+
+# -- ELVEN MANA SPREADERS
+botania.entry.dreamwoodSpreader=§fElven Mana Spreaders
+botania.tagline.dreamwoodSpreader=§fHarder, better, faster, stronger
+
+# -- ELVEN MANA LENSES
+botania.entry.elvenLenses=§fElven Mana Lenses
+botania.tagline.elvenLenses=§fAdvanced Mana Lenses with new abilities
+
+# -- MANA PRISM
+botania.entry.prism=§fMana Prism
+botania.tagline.prism=§fSwitch a Mana Burst's effective Lens on the fly
+
+# -- MANA ON RAILS
+botania.entry.poolCart=§fMana on Rails
+botania.tagline.poolCart=§fThis is not a web framework
+
+# -- SPARK TINKERER
+botania.entry.sparkChanger=§fSpark Tinkerer
+botania.tagline.sparkChanger=§fControl augments on sparks with redstone
+
+# -- MANATIDE BELLOWS
+botania.entry.bellows=§fManatide Bellows
+botania.tagline.bellows=§fMake Mana Pools' transferring and Furnaces faster
+
+# - FUNCTIONAL FLOWERS
+# -- AN INTRODUCTION TO FUNCTION
+botania.entry.fIntro=§fAn Introduction to Function
+botania.tagline.fIntro=§fFlowers that use mana for beneficial powers
+
+# -- FLOWER SHRINKING
+botania.entry.flowerShrinking=§fFlower Shrinking
+botania.tagline.flowerShrinking=§fSmaller flowers with a smaller range
+
+# -- MODULATING DELAY
+botania.entry.flowerSpeed=§fModulating Delay
+botania.tagline.flowerSpeed=§fChanging how long flowers take to work
+
+# -- JADED AMARANTHUS
+botania.entry.jadedAmaranthus=§fJaded Amaranthus
+botania.tagline.jadedAmaranthus=§fCreates more Mystical Flowers
+
+# -- BELLETHRONE
+botania.entry.bellethorne=§fBellethorne
+botania.tagline.bellethorne=§fDamages mobs
+
+# -- DREADTHORNE
+botania.entry.dreadthorne=§fDreadthorne
+botania.tagline.dreadthorne=§fDamages adult animals
+
+# -- HEISEI DREAM
+botania.entry.heiseiDream=§fHeisei Dream
+botania.tagline.heiseiDream=§fTurns mobs against each other
+
+# -- TIGERSEYE
+botania.entry.tigerseye=§fTigerseye
+botania.tagline.tigerseye=§fScares and repels creepers
+
+# -- ORECHID
+botania.entry.orechid=§fOrechid
+botania.tagline.orechid=§fCreates ores from stone
+
+# -- ORECHID IGNEM
+botania.entry.orechidIgnem=§fOrechid Ignem
+botania.tagline.orechidIgnem=§fCreates nether ores from netherrack
+
+# -- FALLEN KANADE
+botania.entry.fallenKanade=§fFallen Kanade
+botania.tagline.fallenKanade=§fPowerful, short range regeneration
+
+# -- EXOFLAME
+botania.entry.exoflame=§fExoflame
+botania.tagline.exoflame=§fIgnites and speeds up Furnaces
+
+# -- AGRICARNATION
+botania.entry.agricarnation=§fAgricarnation
+botania.tagline.agricarnation=§fGrows crops faster
+
+# -- HOPPERHOCK
+botania.entry.hopperhock=§fHopperhock
+botania.tagline.hopperhock=§fPicks up items
+
+# -- TANGLEBERRIE
+botania.entry.tangleberrie=§fTangleberrie
+botania.tagline.tangleberrie=§fKeeps mobs in
+
+# -- JIYUULIA
+botania.entry.jiyuulia=§fJiyuulia
+botania.tagline.jiyuulia=§fKeeps mobs out
+
+# -- RANNUNCARPUS
+botania.entry.rannuncarpus=§fRannuncarpus
+botania.tagline.rannuncarpus=§fPlaces blocks down
+
+# -- HYACIDUS
+botania.entry.hyacidus=§fHyacidus
+botania.tagline.hyacidus=§fPoisons mobs
+
+# -- POLLIDISIAC
+botania.entry.pollidisiac=§fPollidisiac
+botania.tagline.pollidisiac=§fMakes animals breed
+
+# -- CLAYCONIA
+botania.entry.clayconia=§fClayconia
+botania.tagline.clayconia=§fCreates clay from sand
+
+# -- LOONIUM
+botania.entry.loonium=§fLoonium
+botania.tagline.loonium=§fConjures dungeon loot
+
+# -- DAFFOMILL
+botania.entry.daffomill=§fDaffomill
+botania.tagline.daffomill=§fMoves items with wind
+
+# -- VINCULOTUS
+botania.entry.vinculotus=§fVinculotus
+botania.tagline.vinculotus=§fIntercepts enderman teleportation
+
+# -- SPECTRANTHEMUM
+botania.entry.spectranthemum=§fSpectranthemum
+botania.tagline.spectranthemum=§fTeleports items
+
+# -- MEDUMONE
+botania.entry.medumone=§fMedumone
+botania.tagline.medumone=§fFreezes mobs
+
+# -- MARIMORPHOSIS
+botania.entry.marimorphosis=§fMarimorphosis
+botania.tagline.marimorphosis=§fCreates new stone types
+
+# -- BUBBELL
+botania.entry.bubbell=§fBubbell
+botania.tagline.bubbell=§fMakes underwater bubbles
+
+# -- SOLEGNOLIA
+botania.entry.solegnolia=§fSolegnolia
+botania.tagline.solegnolia=§fCreates spaces where the Ring of Magnetization doesn't work
+
+# - GENERATING FLOWERS
+# -- AN INTRODUCTION TO GENERATION
+botania.entry.gIntro=§fAn Introduction to Generation
+botania.tagline.gIntro=§fFlowers that consume resources to make mana
+
+# -- CAVEATS OF PASSIVE GENERATION
+botania.entry.passiveGen=§fCaveats of Passive Generation
+botania.tagline.passiveGen=§fIt's free or it's good, pick one
+
+# -- PRIMUS LOCI
+botania.entry.primusLoci=§fPrimus Loci
+botania.tagline.primusLoci=§fRare flower patches with non-decaying flowers
+
+# -- DAYBLOOM
+botania.entry.daybloom=§fDaybloom
+botania.tagline.daybloom=§fMana from the sky
+
+# -- NIGHTSHADE
+botania.entry.nightshade=§fNightshade
+botania.tagline.nightshade=§fMana from the moon
+
+# -- ENDOFLAME
+botania.entry.endoflame=§fEndoflame
+botania.tagline.endoflame=§fMana from fuel
+
+# -- HYDROANGEAS
+botania.entry.hydroangeas=§fHydroangeas
+botania.tagline.hydroangeas=§fMana from water
+
+# -- THERMALILY
+botania.entry.thermalily=§fThermalily
+botania.tagline.thermalily=§fMana from lava
+
+# -- ROSA ARCANA
+botania.entry.arcanerose=§fRosa Arcana
+botania.tagline.arcanerose=§fMana from experience
+
+# -- MUNCHDEW
+botania.entry.munchdew=§fMunchdew
+botania.tagline.munchdew=§fMana from leaves
+
+# -- ENTROPINNYUM
+botania.entry.entropinnyum=§fEntropinnyum
+botania.tagline.entropinnyum=§fMana from TNT
+
+# -- KEKIMURUS
+botania.entry.kekimurus=§fKekimurus
+botania.tagline.kekimurus=§fMana from cake
+
+# -- GOURMARYLLIS
+botania.entry.gourmaryllis=§fGourmaryllis
+botania.tagline.gourmaryllis=§fMana from food
+
+# -- NARSLIMMUS
+botania.entry.narslimmus=§fNarslimmus
+botania.tagline.narslimmus=§fMana from slime
+
+# -- SPECTROLUS
+botania.entry.spectrolus=§fSpectrolus
+botania.tagline.spectrolus=§fMana from wool
+
+# -- RAFFLOWSIA
+botania.entry.rafflowsia=§fRafflowsia
+botania.tagline.rafflowsia=§fMana from flowers
+
+# -- DANDELIFEON
+botania.entry.dandelifeon=§fDandelifeon
+botania.tagline.dandelifeon=§fMana from life
+
+# - NATURAL APPARATUS
+# -- MANA PYLON
+botania.entry.pylon=§fMana Pylon
+botania.tagline.pylon=§fEnchantment booster
+
+# -- MANA ENCHANTING
+botania.entry.manaEnchanting=§fEnchanting with Mana
+botania.tagline.manaEnchanting=§fUsing mana to enchant your tools
+
+# -- SPREADER TURNTABLE
+botania.entry.turntable=§fSpreader Turntable
+botania.tagline.turntable=§fSpin spreaders around
+
+# -- ALCHEMISING WITH MANA
+botania.entry.manaAlchemy=§fAlchemising with Mana
+botania.tagline.manaAlchemy=§fTurn A into B. Exchange may or may not be equivalent
+
+
+# -- BOTANICAL BREWERY
+botania.entry.brewery=§fBotanical Brewery
+botania.tagline.brewery=§fCreate brews, more effective potions
+
+# -- BREWING FLASKS
+botania.entry.flasks=§fBrewing Flasks
+botania.tagline.flasks=§fBigger brew containers
+
+# -- COMPLEX BREWING
+botania.entry.complexBrews=§fComplex Brews
+botania.tagline.complexBrews=§fStronger brews with new effects
+
+# -- BREW INCENSES
+botania.entry.incense=§fBrew Incenses
+botania.tagline.incense=§fBrews on an area of effect
+
+
+# -- EYE OF THE ANCIENTS
+botania.entry.forestEye=§fEye of the Ancients
+botania.tagline.forestEye=§fAnimal detector
+
+# -- OPEN CRATE
+botania.entry.openCrate=§fOpen Crate
+botania.tagline.openCrate=§fA simple device to drop things
+
+# -- DRUM OF THE WILD
+botania.entry.forestDrum=§fDrum of the Wild
+botania.tagline.forestDrum=§fHarvest crops and uproot grass with mana bursts
+
+# -- ABSTRUSE PLATFORM
+botania.entry.platform=§fAbstruse Platform
+botania.tagline.platform=§fDisguisable platform you can fall down in
+
+# -- CONJURING WITH MANA
+botania.entry.manaConjuration=§fConjuring with Mana
+botania.tagline.manaConjuration=§fDuplicate your resources with mana
+
+# -- SPECTRAL PLATFORM
+botania.entry.spectralPlatform=§fSpectral Platform
+botania.tagline.spectralPlatform=§fDisguisable platform with no solid body
+
+# -- DRUM OF THE GATHERING
+botania.entry.gatherDrum=§fDrum of the Gathering
+botania.tagline.gatherDrum=§fShear sheep and milk cows with mana bursts
+
+# -- CRAFTY CRATE
+botania.entry.craftCrate=§fCrafty Crate
+botania.tagline.craftCrate=§fA way to craft automatically
+
+# -- HOVERING HOURGLASS
+botania.entry.hourglass=§fHovering Hourglass
+botania.tagline.hourglass=§fA simple timer, using the sands of time
+
+# -- SPECTRAL RAIL
+botania.entry.ghostRail=§fSpectral Rail
+botania.tagline.ghostRail=§fSend minecarts flying
+
+# -- DRUM OF THE CANOPY
+botania.entry.canopyDrum=§fDrum of the Canopy
+botania.tagline.canopyDrum=§fDestroy leaves en masse with mana bursts
+
+# -- COCOON OF CAPRICE
+botania.entry.cocoon=§fCocoon of Caprice
+botania.tagline.cocoon=§fHatch your own animals
+
+# -- MANASTORM CHARGE
+botania.entry.manaBomb=§fManastorm Charge
+botania.tagline.manaBomb=§fManastorm Charge go BOOM. BOOM BOOM. BOOMBOOMBOOMBOOMBOOMBOOM
+
+# -- TERU TERU BOZU
+botania.entry.teruTeruBozu=§fTeru Teru Bozu
+botania.tagline.teruTeruBozu=§fWeather control and cuteness overload
+
+# -- LIVINGWOOD AVATAR
+botania.entry.avatar=§fLivingwood Avatar
+botania.tagline.avatar=§fRod effects in a block
+
+# -- FEL PUMPKIN
+botania.entry.felPumpkin=§fFel Pumpkin
+botania.tagline.felPumpkin=§fA pumpkin that can spawn blazes
+
+# - MYSTICAL INSTRUMENTS
+# -- MANA BLASTER
+botania.entry.manaBlaster=§fMana Blaster
+botania.tagline.manaBlaster=§fPortable Mana Spreader, with lenses!
+
+# -- PASTURE SEEDS
+botania.entry.grassSeeds=§fPasture Seeds
+botania.tagline.grassSeeds=§fSeeds to create Grass, Podzol and Mycelium
+
+# -- ROD OF THE LANDS
+botania.entry.dirtRod=§fRod of the Lands
+botania.tagline.dirtRod=§fA rod to create dirt
+
+# -- TERRA FIRMA ROD
+botania.entry.terraformRod=§fRod of the Terra Firma
+botania.tagline.terraformRod=§fA rod to terraform
+
+# -- MANASTEEL EQUIPMENT
+botania.entry.manaGear=§fManasteel Equipment
+botania.tagline.manaGear=§fIron-tier equipment that repairs itself with Mana
+
+# -- HORN OF THE WILD
+botania.entry.grassHorn=§fHorn of the Wild
+botania.tagline.grassHorn=§fReap all grass and crops around you
+
+# -- TERRASTEEL ARMOR
+botania.entry.terrasteelArmor=§fTerrasteel Armor
+botania.tagline.terrasteelArmor=§fDiamond-tier armor with Manasteel properties
+
+# -- TERRA BLADE
+botania.entry.terraSword=§fTerra Blade
+botania.tagline.terraSword=§fA sword that fires a beam that damages mobs
+
+# -- TERRA SHATTERER
+botania.entry.terraPick=§fTerra Shatterer
+botania.tagline.terraPick=§fUpgradable pickaxe with large area of effect powers
+
+# -- ROD OF THE SEAS
+botania.entry.waterRod=§fRod of the Seas
+botania.tagline.waterRod=§fA rod to create water
+
+# -- ELEMENTIUM EQUIPMENT
+botania.entry.elfGear=§fElementium Equipment
+botania.tagline.elfGear=§fManasteel equivalent gear with special properties
+
+# -- EXTRAPOLATED BUCKET
+botania.entry.openBucket=§fExtrapolated Bucket
+botania.tagline.openBucket=§fA bucket that destroys anything that comes inside
+
+# -- ROD OF THE BIFROST
+botania.entry.rainbowRod=§fRod of the Bifrost
+botania.tagline.rainbowRod=§fA rod to create rainbow bridges, and fancy building blocks
+
+# -- ROD OF THE SKIES
+botania.entry.tornadoRod=§fRod of the Skies
+botania.tagline.tornadoRod=§fA rod to jump high in the sky
+
+# -- ROD OF THE HELLS
+botania.entry.fireRod=§fRod of the Hells
+botania.tagline.fireRod=§fA rod to create circles of flame
+
+# -- VINE BALLS
+botania.entry.vineBall=§fVine Balls
+botania.tagline.vineBall=§fThrowable vines you can climb like ladders
+
+# -- SHARD OF LAPUTA
+botania.entry.laputaShard=§fShard of Laputa
+botania.tagline.laputaShard=§fRaise parts of your world as floating islands
+
+# -- EQUESTRIAN VIRUS
+botania.entry.virus=§fEquestrian Virus
+botania.tagline.virus=§fSuper high powered horses
+
+# -- ROD OF THE HIGHLANDS
+botania.entry.skyDirtRod=§fRod of the Highlands
+botania.tagline.skyDirtRod=§fA rod to create dirt, in the sky
+
+# -- VITREOUS PICKAXE
+botania.entry.glassPick=§fVitreous Pickaxe
+botania.tagline.glassPick=§fA pickaxe with built-in silk touch for glass
+
+# -- ROD OF DIVINING
+botania.entry.diviningRod=§fRod of the Plentiful Mantle
+botania.tagline.diviningRod=§fA rod to find ores
+
+# -- ROD OF THE BLACK MESA
+botania.entry.gravityRod=§fRod of the Shaded Mesa
+botania.tagline.gravityRod=§fA rod to lift and throw mobs
+
+# -- TIMELESS IVY
+botania.entry.regenIvy=§fTimeless Ivy
+botania.tagline.regenIvy=§fIvy that can be attached to items to have them regenerate durability
+
+# -- ROD OF THE ARCANE BARRAGE
+botania.entry.missileRod=§fRod of the Unstable Reservoir
+botania.tagline.missileRod=§fA rod to pew pew
+
+# -- ASSEMBLY HALO
+botania.entry.craftingHalo=§fAssembly Halo
+botania.tagline.craftingHalo=§fPortable crafting, fast or with a grid
+
+# -- LENS CLIP
+botania.entry.clip=§fLens Clip
+botania.tagline.clip=§fA Mana Blaster upgrade that lets it have multiple lenses
+
+# -- ROD OF THE DEPTHS
+botania.entry.cobbleRod=§fRod of the Depths
+botania.tagline.cobbleRod=§fA rod to create cobble
+
+# -- ROD OF THE MOLTEN CORE
+botania.entry.smeltRod=§fRod of the Molten Core
+botania.tagline.smeltRod=§fA rod to smelt blocks
+
+# -- WORLD SEED
+botania.entry.worldSeed=§fWorld Seed
+botania.tagline.worldSeed=§fA consumable that returns one to world spawn
+
+# -- SPELLBINDING CLOTH
+botania.entry.spellCloth=§fSpellbinding Cloth
+botania.tagline.spellCloth=§fCloth that can be combined to with items to remove enchants
+
+# -- THORN CHAKRAM
+botania.entry.thornChakram=§fThorn Chakram
+botania.tagline.thornChakram=§fThrowable vine weapon that bounces and poisons
+
+# -- FLARE CHAKRAM
+botania.entry.fireChakram=§fFlare Chakram
+botania.tagline.fireChakram=§fA burning Thorn Chakram
+
+# -- OVERGROWTH SEED
+botania.entry.overgrowthSeed=§fOvergrowth Seed
+botania.tagline.overgrowthSeed=§fAn elusive object that powers up flowers and prevents passive death
+
+# -- LIVINGWOOD BOW
+botania.entry.livingwoodBow=§fLivingwood Bow
+botania.tagline.livingwoodBow=§fA stronger bow that regenerates using Mana
+
+# -- CRYSTAL BOW
+botania.entry.crystalBow=§fCrystal Bow
+botania.tagline.crystalBow=§fA faster bow that creates arrows from Mana
+
+# -- STONE OF TEMPERANCE
+botania.entry.temperanceStone=§fStone of Temperance
+botania.tagline.temperanceStone=§fA limiter for the power of a Terra Shatterer
+
+# -- TERRA TRUNCATOR
+botania.entry.terraAxe=§fTerra Truncator
+botania.tagline.terraAxe=§fAn axe that chops down whole trees. How inspired
+
+# -- FLORAL OBEDIENCE STICK
+botania.entry.obedienceStick=§fFloral Obedience Stick
+botania.tagline.obedienceStick=§fMass binding flowers to a spot
+
+# -- SLIME IN A BOTTLE
+botania.entry.slimeBottle=§fSlime in a Bottle
+botania.tagline.slimeBottle=§fSlime chunk detector
+
+# -- ROD OF THE SHIFTING CRUST
+botania.entry.exchangeRod=§fRod of the Shifting Crust
+botania.tagline.exchangeRod=§fA rod to change blocks
+
+# -- MANAWEAVE CLOTH
+botania.entry.manaweave=§fManaweave Cloth
+botania.tagline.manaweave=§fCloth armor that regenerates with mana and provides a boost to rod powers
+
+# -- MANUFACTORY HALO
+botania.entry.autocraftingHalo=§fManufactory Halo
+botania.tagline.autocraftingHalo=§fAn Assembly Halo that crafts for you
+
+# -- WORLDSHAPER'S SEXTANT
+botania.entry.sextant=§fWorldshaper's Sextant
+botania.tagline.sextant=§fA tool to help create circles
+
+# - ENDER ARTEFACTS
+# -- EXTRACTING ENDER AIR
+botania.entry.enderAir=§fExtracting Ender Air
+botania.tagline.enderAir=§fThrowable bottles that create End Stone
+
+# -- ENDER OVERSEER
+botania.entry.enderEyeBlock=§fEnder Overseer
+botania.tagline.enderEyeBlock=§fLook activated redstone detector
+
+# -- FORCE RELAY
+botania.entry.pistonRelay=§fForce Relay
+botania.tagline.pistonRelay=§fRemote piston extension
+
+# -- HAND OF ENDER
+botania.entry.enderHand=§fHand of Ender
+botania.tagline.enderHand=§fEnder Chest access anywhere
+
+# -- SOULSCRIBE
+botania.entry.enderDagger=§fSoulscribe
+botania.tagline.enderDagger=§fA dagger that cuts through endermen like butter
+
+# -- LIFE IMBUER
+botania.entry.spawnerClaw=§fLife Imbuer
+botania.tagline.spawnerClaw=§fPower spawners with Mana, even if there's nobody around
+
+# -- RED STRING
+botania.entry.redString=§fRed String
+botania.tagline.redString=§fRemote inventories and other remote things
+
+# -- FLUGEL TIARA
+botania.entry.flightTiara=§fFlügel Tiara
+botania.tagline.flightTiara=§fThe ability to fly... for a bit
+
+# -- BASICS OF CORPOREA
+botania.entry.corporea=§fBasics of Corporea
+botania.tagline.corporea=§fA system to manage inventories
+
+# -- CORPOREA INDEX
+botania.entry.corporeaIndex=§fCorporea Index
+botania.tagline.corporeaIndex=§fRequest items from a Corporea network via chat
+
+# -- CORPOREA FUNNEL
+botania.entry.corporeaFunnel=§fCorporea Funnel
+botania.tagline.corporeaFunnel=§fRequest items from a Corporea network via redstone
+
+# -- CORPOREA INTERCEPTOR
+botania.entry.corporeaInterceptor=§fCorporea Interceptor
+botania.tagline.corporeaInterceptor=§fIntercept Corporea requests and send redstone signals
+
+# -- CORPOREA CRYSTAL CUBE
+botania.entry.corporeaCrystalCube=§fCorporea Crystal Cube
+botania.tagline.corporeaCrystalCube=§fView and request items from a Corporea network
+
+# -- CORPOREA RETAINER
+botania.entry.corporeaRetainer=§fCorporea Retainer
+botania.tagline.corporeaRetainer=§fMemory for re-doing Corporea requests
+
+# -- DECORATIVE END BLOCKS
+botania.entry.endStoneDecor=§fDecorative End Blocks
+botania.tagline.endStoneDecor=§fSome end-themed decoration
+
+# -- LIFE AGGREGATOR
+botania.entry.spawnerMover=§fLife Aggregator
+botania.tagline.spawnerMover=§fThe ability to move spawners
+
+# -- RESOLUTE IVY
+botania.entry.keepIvy=§fResolute Ivy
+botania.tagline.keepIvy=§fIvy that can be attached to items to keep them after death
+
+# -- BLACK HOLE TALISMAN
+botania.entry.blackHoleTalisman=§fBlack Hole Talisman
+botania.tagline.blackHoleTalisman=§fInfinite storage of a block in a single slot
+
+# -- LUMINIZER TRANSPORT
+botania.entry.luminizerTransport=§fLuminizer Transport
+botania.tagline.luminizerTransport=§fFly through the skies
+
+# -- STARCALLER
+botania.entry.starSword=§fStarcaller
+botania.tagline.starSword=§fA sword that calls upon fallen stars
+
+# -- THUNDERCALLER
+botania.entry.thunderSword=§fThundercaller
+botania.tagline.thunderSword=§fA sword that calls upon thunder
+
+# - BAUBLES AND ACCESSORIES
+# -- AN INTRODUCTION TO BAUBLES
+botania.entry.bIntro=§fAn Introduction to Baubles
+botania.tagline.bIntro=§fAccessories that provide power
+
+# -- COSMETIC BAUBLES
+botania.entry.cosmeticBaubles=§fCosmetic Baubles
+botania.tagline.cosmeticBaubles=§fAccessories that don't provide power
+
+# -- TINY PLANET
+botania.entry.tinyPlanet=§fTiny Planet
+botania.tagline.tinyPlanet=§fSend Mana bursts flying around you 
+
+# -- BAND OF MANA
+botania.entry.manaRing=§fBand of Mana
+botania.tagline.manaRing=§fMana-Tablet-In-A-Ring
+
+# -- BAND OF AURA
+botania.entry.auraRing=§fBand of Aura
+botania.tagline.auraRing=§fPassive Mana Generator in a Ring
+
+# -- SOUJOURNER'S SASH
+botania.entry.travelBelt=§fSoujourner's Sash
+botania.tagline.travelBelt=§fGo faster, jump higher and step better
+
+# -- TECTONIC GIRDLE
+botania.entry.knockbackBelt=§fTectonic Girdle
+botania.tagline.knockbackBelt=§fPrevent all knockback damage
+
+# -- SNOWFLAKE PENDANT
+botania.entry.icePendant=§fSnowflake Pendant
+botania.tagline.icePendant=§fWalk on water, by making ice
+
+# -- PYROCLAST PENDANT
+botania.entry.lavaPendant=§fPyroclast Pendant
+botania.tagline.lavaPendant=§fFire resistance, somewhat
+
+# -- GOLDEN LAUREL CROWN
+botania.entry.goldenLaurel=§fGolden Laurel Crown
+botania.tagline.goldenLaurel=§fImmunity to death, once
+
+# -- RING OF CHORDATA
+botania.entry.waterRing=§fRing of Chordata
+botania.tagline.waterRing=§fMove super fast underwater
+
+# -- RING OF THE MANTLE
+botania.entry.miningRing=§fRing of the Mantle
+botania.tagline.miningRing=§fMine faster with Haste
+
+# -- RING OF MAGNETIZATION
+botania.entry.magnetRing=§fRing of Magnetization
+botania.tagline.magnetRing=§fPull items towards you
+
+# -- RING OF FAR REACH
+botania.entry.reachRing=§fRing of Far Reach
+botania.tagline.reachRing=§fReach farther, build farther
+
+# -- CHARM OF THE DIVA
+botania.entry.divaCharm=§fCharm of the Diva
+botania.tagline.divaCharm=§fCharm mobs that attack you
+
+# -- GREAT FAIRY RING
+botania.entry.pixieRing=§fGreat Fairy Ring
+botania.tagline.pixieRing=§fSpawn more pixie friends (warning: friends might suicide spontaneously)
+
+# -- GLOBETROTTER'S SASH
+botania.entry.superTravelBelt=§fGlobetrotter's Sash
+botania.tagline.superTravelBelt=§fGotta go fast
+
+# -- THE SPECTATOR
+botania.entry.itemFinder=§fThe Spectator
+botania.tagline.itemFinder=§fFind items in chests, minecarts and villager trades
+
+# -- CRIMSON PENDANT
+botania.entry.superLavaPendant=§fCrimson Pendant
+botania.tagline.superLavaPendant=§fFull on fire and lava resistance
+
+# -- TAINTED BLOOD PENDANT
+botania.entry.bloodPendant=§fTainted Blood Pendant
+botania.tagline.bloodPendant=§fCrystalized brews in pendant form
+
+# -- CLOAKS OF JUDGEMENT
+botania.entry.judgementCloaks=§fCloaks of Judgement
+botania.tagline.judgementCloaks=§fCloaks of Virtue and Sin to judge opponents
+
+# -- MANASEER MONOCLE
+botania.entry.monocle=§fManaseer Monocle
+botania.tagline.monocle=§fAn essential tool for viewing flowers' radiuses
+
+# -- RING OF CORRECTION
+botania.entry.swapRing=§fRing of Correction
+botania.tagline.swapRing=§fMakes one always use the right tool for the job
+
+# -- PLANESTRIDER'S SASH
+botania.entry.speedUpBelt=§fPlanestrider's Sash
+botania.tagline.speedUpBelt=§fSpeeds you up the more you walk
+
+# -- BAUBLE CASE
+botania.entry.baubleBox=§fBauble Case
+botania.tagline.baubleBox=§fA handy container to store your Baubles
+
+# - ALFHOMANCY
+# -- THE PORTAL TO ALFHEIM
+botania.entry.aIntro=§fThe Portal to Alfheim
+botania.tagline.aIntro=§fThe next step in the Journey...
+
+# -- A MESSAGE FROM ELVEN GARDE
+botania.entry.elfMessage=§fA Message from Elven Garde
+botania.tagline.elfMessage=§fDefinitely a message. Yup
+
+# -- THE RESOURCES OF ALFHEIM
+botania.entry.elfResources=§fThe Resources of Alfheim
+botania.tagline.elfResources=§fWhat's beyond the gate
+
+# -- RITUAL OF GAIA
+botania.entry.gaiaRitual=§fRitual of Gaia
+botania.tagline.gaiaRitual=§fSummon the Guardian of Gaia for GREAT JUSTICE!
+
+# -- RITUAL OF GAIA II
+botania.entry.gaiaRitualHardmode=§fRitual of Gaia II
+botania.tagline.gaiaRitualHardmode=§fPixie Boogaloo
+
+# -- THE RELICS OF THE AESIR
+botania.entry.relics=§fThe Relics of the Aesir
+botania.tagline.relics=§fA myth? Or reality?
+
+# -- THE RELICS OF THE AESIR II
+botania.entry.relicInfo=§fThe Relics of the Aesir II
+botania.tagline.relicInfo=§fThey're real after all
+
+# -- THE FRUIT OF GRISAIA   
+botania.entry.infiniteFruit=§fThe Fruit of Grisaia
+botania.tagline.infiniteFruit=§fEndless supply of nourishment
+
+# -- KEY OF THE KING'S LAW
+botania.entry.kingKey=§fKey of the King's Law
+botania.tagline.kingKey=§fOpen the treasury
+
+# -- EYE OF THE FLUGEL
+botania.entry.flugelEye=§fEye of the Flügel
+botania.tagline.flugelEye=§fThe true power of a Flügel 
+
+# -- RING OF THOR
+botania.entry.thorRing=§fRing of Thor
+botania.tagline.thorRing=§fBecause the Terra Shatterer wasn't strong enough
+
+# -- RING OF LOKI
+botania.entry.lokiRing=§fRing of Loki
+botania.tagline.lokiRing=§fThe power to be here, and there, and over there too
+
+# -- RING OF ODIN
+botania.entry.odinRing=§fRing of Odin
+botania.tagline.odinRing=§fGodlike resistance
+
+# -- ELVEN LORE - THE SHATTERING
+botania.entry.elvenLore=§fElven Lore - The Shattering
+botania.tagline.elvenLore=§fSome lore on why we are where we are
+
+# - MISCLANEOUS
+# -- UNSTABLE CUBE
+botania.entry.unstableBlocks=§fUnstable Cubes
+botania.tagline.unstableBlocks=§fFancy accent blocks
+
+# -- DECORATIVE BLOCKS
+botania.entry.decorativeBlocks=§fDecorative Blocks
+botania.tagline.decorativeBlocks=§fJust what it says, really
+
+# -- DISPENSER TWEAKS
+botania.entry.dispenserTweaks=§fDispenser Tweaks
+botania.tagline.dispenserTweaks=§fGet more out of your dispensers
+
+# -- GLIMMERING FLOWERS
+botania.entry.shinyFlowers=§fGlimmering Flowers
+botania.tagline.shinyFlowers=§fShiny flowers and floating flowers
+
+# -- PRISMARINE
+botania.entry.prismarine=§fPrismarine
+botania.tagline.prismarine=§fUFO Commander, we are the future
+
+# -- NATURAL SHEDDING
+botania.entry.shedding=§fNatural Shedding
+botania.tagline.shedding=§fThings dropping other things
+
+# -- TINY POTATO
+botania.entry.tinyPotato=§fTiny Potato
+botania.tagline.tinyPotato=§fA potato friend for all of us
+
+# -- HEAD CREATION
+botania.entry.headCreating=§fHead Creation
+botania.tagline.headCreating=§fCreate any player's head
+
+# -- AZULEJO -- http://en.wikipedia.org/wiki/Azulejo
+botania.entry.azulejo=§fAzulejos
+botania.tagline.azulejo=§fBlue and white decorative tiles
+
+# -- STARFIELD CREATOR
+botania.entry.starfield=§fStarfield Creator
+botania.tagline.starfield=§fCreate a starry sky
+
+# -- TRODDEN DIRT
+botania.entry.dirtPath=§fTrodden Dirt
+botania.tagline.dirtPath=§fThis dirt is for walking
+
+# -- SHIMMERING MUSHROOMS
+botania.entry.mushrooms=§fShimmering Mushrooms
+botania.tagline.mushrooms=§fTouch fuzzy, but don't get dizzy
+
+# -- PHANTOM INK
+botania.entry.phantomInk=§fPhantom Ink
+botania.tagline.phantomInk=§fMake your armor and baubles invisible
+
+# -- STONE ALCHEMY
+botania.entry.stoneAlchemy=§fStone Alchemy
+botania.tagline.stoneAlchemy=§fCreate new stone types
+
+# -- BLAZE LIGHT
+botania.entry.blazeBlock=§fBlaze Light
+botania.tagline.blazeBlock=§fCompact blaze storage and a renewable obsidian source
+
+# -- CHALLENGES
+botania.entry.challenges=§fChallenges
+botania.tagline.challenges=§fChallenge yourself
+
+# -- CACOPHONIUM
+botania.entry.cacophonium=§fCacophonium
+botania.tagline.cacophonium=§fMimic mob sounds
+
+# -- PORTUGUESE PAVEMENT
+botania.entry.pavement=§fPortuguese Pavement
+botania.tagline.pavement=§fPavement for road building
+
+# -- THAUMCRAFT INTEGRATION
+botania.entry.tcIntegration=§fThaumcraft Integration
+botania.tagline.tcIntegration=§fTidbits of integration with Thaumcraft
+
+# -- BUILDCRAFT INTEGRATION
+botania.entry.bcIntegration=§fBuildcraft Integration
+botania.tagline.bcIntegration=§fGates for interaction with Botania
+
+# -- BANNER ADDITIONS
+botania.entry.banners=§fBanner Additions
+botania.tagline.banners=§fLots of new banner patterns
+
+# -- PREVNTING DECAY
+botania.entry.preventingDecay=§fPreventing Decay
+botania.tagline.preventingDecay=§fPreventing passive flowers' decay
