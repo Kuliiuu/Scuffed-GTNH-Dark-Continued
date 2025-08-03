@@ -10,7 +10,7 @@
 The current state of this resource pack is in **Alpha** and doesn't cover all GUIs, but hopefully the most essential ones.
 
 Feedback is very much encouraged, as well as texturing requests for the remaining mods.  
-Original creator of this pack: **Flanisch** (Discord: **@Albi**)  
+Original creator of this pack: **Flanisch** (Discord: **@albient**)  
 Current maintainer: **@marneyy_**
 
 ---
@@ -31,7 +31,7 @@ This UI Resource Pack is developed with compatibility in mind for Unity and ZedT
 ---
 
 ## Credits
-Huge thanks to the original creator, [**Flanisch**](https://github.com/Flanisch) (Discord: **@Albi**), for the original [Scuffed-GTNH-Dark](https://github.com/Flanisch/Scuffed-GTNH-Dark).
+Huge thanks to the original creator, [**Flanisch**](https://github.com/Flanisch) (Discord: **@albient**), for the original [Scuffed-GTNH-Dark](https://github.com/Flanisch/Scuffed-GTNH-Dark).
 
 This resource pack also uses and adapts assets from the following projects:
 
